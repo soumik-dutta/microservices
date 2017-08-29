@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-streetbuzz.iml" filepath="$PROJECT_DIR$/demo-streetbuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-streetbuzz_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-streetbuzz_main.iml" group="demo-streetbuzz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-streetbuzz_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-streetbuzz_test.iml" group="demo-streetbuzz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservices.iml" filepath="$PROJECT_DIR$/.idea/modules/microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservices_main.iml" filepath="$PROJECT_DIR$/.idea/modules/microservices_main.iml" group="microservices" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservices_test.iml" filepath="$PROJECT_DIR$/.idea/modules/microservices_test.iml" group="microservices" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+#ignore all .idea/ files 
+\.idea\*
+#\.idea\libraries\*
